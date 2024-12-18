@@ -103,6 +103,10 @@ img {
   width: 100%;
 }
 
+.container-btn button:hover {
+  background-color: hsl(156, 42%, 18%);
+}
+
 button {
   width: 100%;
   height: 48px;

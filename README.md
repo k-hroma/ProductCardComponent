@@ -21,13 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Product Card Component](./assets/images/Screenshot.png)
-
+![Product Card Component](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [https://k-hroma.github.io/Recipe-main-page/]
-- Live Site URL: [https://github.com/k-hroma/Recipe-main-page.git]
+- Solution URL: [https://github.com/k-hroma/ProductCardComponent.git]
+- Live Site URL: [https://k-hroma.github.io/ProductCardComponent/]
 
 ## My process
 
